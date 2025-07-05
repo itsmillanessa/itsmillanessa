@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# 👋 Hi, I’m Milán
+# 👋 Hi, I’m Millán
 🔐 Cybersecurity Engineer | Always learning, always breaking & defending.
 
 ## 🔧 Tech Stack
