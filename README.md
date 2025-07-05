@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Milán
+# 👋 Hi, I’m Millán
 
 🔐 **Cybersecurity Engineer**  
 Always learning, always breaking & defending. Passionate about building secure architectures, exploring attack surfaces and helping teams make informed decisions around threat detection and response.
